@@ -1,0 +1,22 @@
+add
+TestName
+-13.2
+15.5
+5000
+600000
+50
+12
+true
+2
+65
+
+
+
+
+info
+
+
+
+
+
+execute_script script.txt
